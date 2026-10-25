@@ -2,171 +2,205 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050807,45:103D2C,100:00C781&height=220&section=header&text=ALIREZA%20AHMADI&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Backend%20Focused&descAlignY=57&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030605,25:071B13,65:075B3C,100:00E6A0&height=240&section=header&text=ALIREZA%20AHMADI&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER&descAlignY=56&descSize=18&animation=fadeIn" alt="Alireza Ahmadi"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2800&pause=900&color=00C781&center=true&vCenter=true&width=700&lines=Python+%7C+FastAPI+%7C+Flask;React+%7C+Next.js+%7C+JavaScript;MongoDB+%7C+PostgreSQL;Building+real-world+software+solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2500&pause=700&color=00E6A0&center=true&vCenter=true&width=780&lines=Python+%7C+JavaScript+%7C+Web+Development;FastAPI+%7C+Flask+%7C+REST+APIs;React+%7C+Next.js+%7C+Modern+Frontend;MongoDB+%7C+PostgreSQL+%7C+Docker;Turning+ideas+into+real+software" alt="Animated developer introduction"/>
 
 <br/>
 
 <a href="https://github.com/Alireza-Ahmadi">
-  <img src="https://img.shields.io/badge/GitHub-Alireza--Ahmadi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-ALIREZA--AHMADI-00E6A0?style=for-the-badge&logo=github&logoColor=black" alt="GitHub profile"/>
 </a>
-<img src="https://img.shields.io/badge/Focus-Full%20Stack-00C781?style=for-the-badge" alt="Full Stack"/>
-<img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Backend"/>
+<img src="https://img.shields.io/badge/FULL%20STACK-ENGINEERING-101713?style=for-the-badge&logo=code&logoColor=00E6A0" alt="Full stack engineering"/>
+<img src="https://img.shields.io/badge/BUILD-IMPROVE-101713?style=for-the-badge&logo=githubactions&logoColor=00E6A0" alt="Build and improve"/>
+
+<br/><br/>
+
+*Crafting software. Exploring technology. Building with purpose.*
 
 </div>
 
 ---
 
-## `$ whoami`
+## `01 / PROFILE`
 
-Hi, I'm **Alireza Ahmadi**, a developer interested in building complete web applications, reliable backend systems, and practical software solutions.
+```python
+developer = {
+    "name": "Alireza Ahmadi",
+    "username": "Alireza-Ahmadi",
+    "focus": ["Full Stack Development", "Backend Engineering"],
+    "languages": ["Python", "JavaScript"],
+    "interests": [
+        "Software Architecture",
+        "API Development",
+        "Database Engineering",
+        "AI Integration",
+    ],
+}
+```
 
-I enjoy working across the stack, from designing APIs and database structures to developing modern web interfaces.
+I build web applications and backend systems, combining practical problem-solving with continuous learning.
 
-- **Backend:** Python, FastAPI, Flask, REST APIs
-- **Frontend:** JavaScript, React, Next.js
-- **Databases:** MongoDB, PostgreSQL
-- **Tools:** Git, GitHub, Docker, VS Code
-- **Interests:** Software architecture, API design, database integration, and application development
+My interests span backend APIs, modern frontend development, database design, automation, and software architecture.
 
-I'm continuously improving my skills by building real projects and exploring better engineering practices.
+---
 
-## `$ tech-stack`
-
-### Languages
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" alt="Programming languages"/>
-</div>
-
-### Backend Development
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="Backend technologies"/>
-</div>
-
-### Frontend Development
+## `02 / TECHNOLOGY MATRIX`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Frontend technologies"/>
-</div>
 
-### Databases & Data Access
+### LANGUAGES
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" alt="Databases"/>
-</div>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" alt="Python JavaScript HTML CSS"/>
 
-### Tools & Workflow
+### BACKEND & API ENGINEERING
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask&theme=dark" alt="FastAPI and Flask"/>
+
+### FRONTEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="React and Next.js"/>
+
+### DATABASE SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql&theme=dark" alt="MongoDB and PostgreSQL"/>
+
+### DEVELOPMENT ENVIRONMENT
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman&theme=dark" alt="Docker Git GitHub VS Code Postman"/>
+
 </div>
 
 ---
 
-## `$ featured-projects`
+## `03 / SELECTED PROJECTS`
 
-<div align="center">
+### `01` — CarMarket
 
-### 🚗 CarMarket
+**Automotive Marketplace & Price Analysis**
 
-**Car Marketplace & Price Analysis Platform**
+A car marketplace application built around listing management, vehicle search, database integration, and price analysis.
 
-A Python-based application for exploring and managing car listings, with database integration and price analysis features.
+| Component | Technologies |
+|:--|:--|
+| Backend | Python, Flask |
+| Database | MongoDB |
+| Data processing | Requests, Pandas |
+| Visualization | Seaborn |
 
-**Key areas**
+**Highlights**
 - Vehicle search and listing management
-- MongoDB data storage
-- Car data collection and processing
-- Price analysis and visualization
+- Data retrieval and processing
+- Database-backed car listings
+- Price analysis and chart generation
 
-**Technologies:** Python · MongoDB · Flask · Data Analysis
-
-[Explore my repositories](https://github.com/Alireza-Ahmadi?tab=repositories)
+[↗ Explore repositories](https://github.com/Alireza-Ahmadi?tab=repositories)
 
 ---
 
-### 🛂 Passport Services Mini App
+### `02` — Passport Services Platform
 
-**Bale Bot & Mini App Platform**
+**Bale Bot & Mini App**
 
-A passport-services application designed around a Bale bot and a Mini App, with a modular backend architecture.
+A modular passport-services platform designed around a Bale bot and a Mini App.
 
-**Key areas**
-- FastAPI backend
-- MongoDB integration
-- Modular service organization
-- API development and authentication integration
-- Mini App interface planning
+| Component | Technologies |
+|:--|:--|
+| Backend | Python, FastAPI |
+| Database | MongoDB |
+| Integration | Bale Bot API |
+| Frontend | JavaScript and Mini App UI |
 
-**Technologies:** Python · FastAPI · MongoDB · React · JavaScript
+**Highlights**
+- Modular service architecture
+- API integration and authentication
+- Database-backed service workflows
+- Bot and Mini App integration
 
-[Explore my repositories](https://github.com/Alireza-Ahmadi?tab=repositories)
+[↗ Explore repositories](https://github.com/Alireza-Ahmadi?tab=repositories)
+
+---
+
+### `03` — Active Vehicle Monitoring
+
+**Vehicle Telemetry & Intelligent Monitoring**
+
+A vehicle-monitoring project in the planning stage, exploring backend data processing and AI integration.
+
+- Vehicle data collection and interpretation
+- Backend architecture planning
+- Vehicle-specific reference values
+- Future AI-assisted analysis
+
+**Status:** Planning and architecture.
+
+[↗ Explore repositories](https://github.com/Alireza-Ahmadi?tab=repositories)
+
+---
+
+## `04 / ENGINEERING TOOLKIT`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Backend-0A3828?style=for-the-badge&logo=python&logoColor=00E6A0" alt="Python"/>
+<img src="https://img.shields.io/badge/JavaScript-Web-0A3828?style=for-the-badge&logo=javascript&logoColor=00E6A0" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/FastAPI-REST%20APIs-0A3828?style=for-the-badge&logo=fastapi&logoColor=00E6A0" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/React-Frontend-0A3828?style=for-the-badge&logo=react&logoColor=00E6A0" alt="React"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-0A3828?style=for-the-badge&logo=mongodb&logoColor=00E6A0" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Docker-Containers-0A3828?style=for-the-badge&logo=docker&logoColor=00E6A0" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-Version%20Control-0A3828?style=for-the-badge&logo=git&logoColor=00E6A0" alt="Git"/>
 
 </div>
 
 ---
 
-## `$ currently_learning`
+## `05 / GITHUB ANALYTICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alireza-Ahmadi&show_icons=true&hide_border=true&bg_color=050807&title_color=00E6A0&icon_color=00E6A0&text_color=D5E2DB" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Ahmadi&layout=compact&hide_border=true&bg_color=050807&title_color=00E6A0&text_color=D5E2DB" alt="Most used languages"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alireza-Ahmadi&bg_color=050807&color=00E6A0&line=00E6A0&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
+
+</div>
+
+---
+
+## `06 / CURRENT DEVELOPMENT`
 
 ```text
-Backend Engineering
-├── FastAPI & REST API design
-├── PostgreSQL & SQLAlchemy
-├── Database modeling
-├── Testing & error handling
-└── Authentication & security
-
-Frontend Engineering
-├── JavaScript
-├── React
-└── Next.js
-
-Development Workflow
-├── Docker
-├── Git & GitHub
-└── Deployment & CI/CD
+FULL STACK ENGINEERING
+├── Backend
+│   ├── Python / FastAPI / Flask
+│   ├── REST APIs / Authentication
+│   └── Testing / Error Handling
+├── Frontend
+│   ├── JavaScript / React
+│   └── Next.js / Responsive UI
+├── Data
+│   ├── MongoDB / PostgreSQL
+│   └── SQLAlchemy / Data Analysis
+└── Engineering Workflow
+    ├── Git / Docker
+    ├── CI/CD
+    └── Deployment
 ```
 
 ---
 
-## `$ github-analytics`
-
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Alireza-Ahmadi&show_icons=true&hide_border=true&bg_color=050807&title_color=00C781&icon_color=00C781&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+### `DESIGN. BUILD. ITERATE.`
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Ahmadi&layout=compact&hide_border=true&bg_color=050807&title_color=00C781&text_color=C9D1D9" alt="Top languages"/>
+<sub>Focused on learning, engineering, and creating useful software.</sub>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Alireza-Ahmadi&bg_color=050807&color=00C781&line=00C781&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E6A0,35:075B3C,75:071B13,100:030605&height=140&section=footer" alt="Emerald footer"/>
 
 </div>
-
----
-
-## `$ engineering-principles`
-
-- Write readable and maintainable code.
-- Keep application responsibilities organized.
-- Design APIs with clear interfaces.
-- Handle errors and validate inputs.
-- Use version control consistently.
-- Improve through documentation, testing, and continuous learning.
-
----
-
-<div align="center">
-
-### `Building. Learning. Improving.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C781,50:103D2C,100:050807&height=110&section=footer" width="100%" alt="Footer banner"/>
-
-</div>
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C781,100:080B0A&height=100&section=footer" width="100%" alt="Footer" />
 
