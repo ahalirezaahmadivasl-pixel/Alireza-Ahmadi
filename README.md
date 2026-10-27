@@ -1,12 +1,21 @@
-<!-- GitHub Profile README | Alireza-Ahmadi | Obsidian Neon -->
+
+<!--
+  GitHub Profile README
+  Username: Alireza-Ahmadi
+  Theme: Obsidian Neon — Black / Emerald / Neon Green
+-->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=700&color=00E676&center=true&vCenter=true&width=760&lines=ALIREZA+AHMADI;FULL-STACK+DEVELOPER;PYTHON+%7C+BACKEND+%7C+WEB;BUILDING+WITH+PURPOSE" alt="Animated title: Alireza Ahmadi, Full-Stack Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=700&color=00E676&center=true&vCenter=true&width=760&lines=ALIREZA+AHMADI;FULL-STACK+DEVELOPER;PYTHON+%7C+BACKEND+%7C+WEB;BUILDING+WITH+PURPOSE" alt="Alireza Ahmadi - Full-Stack Developer" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00E676&section=header" width="82%" alt="" />
 
-<samp><b>OBSIDIAN NEON / DEVELOPER PROFILE</b><br/>Python • Backend • Web Development</samp>
+<samp>OBSIDIAN NEON / DEVELOPER PROFILE</samp>
+
+<br/>
+
+<samp>Python • Backend • Web Development</samp>
 
 <br/><br/>
 
@@ -20,99 +29,177 @@
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
+│                                                              │
 │  USER       : Alireza Ahmadi                                 │
 │  ROLE       : Full-Stack Developer                            │
 │  FOCUS      : Python • APIs • Web Applications                │
-│  APPROACH   : Learn → Build → Improve                          │
+│  APPROACH   : Learn → Build → Improve                         │
 │  STATUS     : Always learning                                 │
+│                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=10B981&center=false&vCenter=true&width=720&lines=%3E+Designing+and+building+web+applications;>+Working+with+Python%2C+APIs+and+databases;>+Exploring+frontend%2C+backend+and+deployment;>+Turning+ideas+into+maintainable+software" alt="Animated developer introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=900&color=10B981&center=false&vCenter=true&width=720&lines=%3E+Building+web+applications;%3E+Working+with+Python+and+APIs;%3E+Exploring+backend+and+frontend;%3E+Improving+software+engineering+skills" alt="Animated introduction" />
 
-I enjoy building software, understanding how systems work, and steadily improving my engineering skills. My current interests span backend development, web technologies, databases, and practical deployment workflows.
+I enjoy building software, understanding how systems work, and continuously improving my development skills.
+
+My interests include backend engineering, web technologies, databases, API development, and practical deployment workflows.
 
 ---
 
 ## `02 / SKILLS DASHBOARD`
 
-<sub>OBSIDIAN NEON • SKILLS & SELF-ASSESSED LEVELS</sub>
+<sub>TECHNOLOGY STACK • CURRENT SELF-ASSESSMENT</sub>
 
-> The levels below reflect my current self-assessment, not an external certification or standardized test.
+> Skill levels represent my current self-assessment. The visual bars are illustrative, not measured proficiency percentages.
 
 ### `01 — LANGUAGES & WEB`
 
-| Technology | Level | Progress |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-Intermediate-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="Python Intermediate" />
+<img src="https://img.shields.io/badge/JavaScript-Intermediate-17221B?style=for-the-badge&logo=javascript&logoColor=00E676" alt="JavaScript Intermediate" />
+<img src="https://img.shields.io/badge/SQL-Intermediate-17221B?style=for-the-badge&logo=postgresql&logoColor=00E676" alt="SQL Intermediate" />
+<img src="https://img.shields.io/badge/HTML5-Proficient-17221B?style=for-the-badge&logo=html5&logoColor=00E676" alt="HTML5 Proficient" />
+<img src="https://img.shields.io/badge/CSS3-Proficient-17221B?style=for-the-badge&logo=css3&logoColor=00E676" alt="CSS3 Proficient" />
+
+</div>
+
+| Skill | Level | Visual indicator |
 |---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="18" alt="Python" /> **Python** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="18" alt="JavaScript" /> **JavaScript** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="18" alt="SQL" /> **SQL** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="18" alt="HTML5" /> **HTML5** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="18" alt="CSS3" /> **CSS3** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| Python | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| JavaScript | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| SQL | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| HTML5 | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| CSS3 | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
 
 ### `02 — BACKEND ENGINEERING`
 
-| Technology | Level | Progress |
-|---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="18" alt="FastAPI" /> **FastAPI** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="18" alt="Flask" /> **Flask** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/REST-API-17221B?style=flat-square&logo=fastapi&logoColor=00E676" height="20" alt="REST API" /> **REST API** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/Pydantic-17221B?style=flat-square&logo=python&logoColor=00E676" height="20" alt="Pydantic" /> **Pydantic** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/OOP-17221B?style=flat-square&logo=python&logoColor=00E676" height="20" alt="OOP" /> **OOP** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/Design_Patterns-17221B?style=flat-square&logo=blueprint&logoColor=00E676" height="20" alt="Design Patterns" /> **Design Patterns** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+<div align="center">
 
-### `03 — FRONTEND`
+<img src="https://img.shields.io/badge/FastAPI-Intermediate-17221B?style=for-the-badge&logo=fastapi&logoColor=00E676" alt="FastAPI Intermediate" />
+<img src="https://img.shields.io/badge/Flask-Intermediate-17221B?style=for-the-badge&logo=flask&logoColor=00E676" alt="Flask Intermediate" />
+<img src="https://img.shields.io/badge/REST_API-Intermediate-17221B?style=for-the-badge&logo=fastapi&logoColor=00E676" alt="REST API Intermediate" />
+<img src="https://img.shields.io/badge/Pydantic-Intermediate-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="Pydantic Intermediate" />
+<img src="https://img.shields.io/badge/OOP-Intermediate-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="OOP Intermediate" />
+<img src="https://img.shields.io/badge/Design_Patterns-Intermediate-17221B?style=for-the-badge&logo=blueprint&logoColor=00E676" alt="Design Patterns Intermediate" />
 
-| Technology | Level | Progress |
+</div>
+
+| Skill | Level | Visual indicator |
 |---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="18" alt="React" /> **React** | Beginner | ▰▰▰▱▱▱▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="18" alt="Next.js" /> **Next.js** | Beginner | ▰▰▰▱▱▱▱▱▱▱ |
-| <img src="https://img.shields.io/badge/Responsive_Design-17221B?style=flat-square&logo=css3&logoColor=00E676" height="20" alt="Responsive Design" /> **Responsive Design** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/UI_Development-17221B?style=flat-square&logo=figma&logoColor=00E676" height="20" alt="UI Development" /> **UI Development** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| FastAPI | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Flask | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| REST API | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Pydantic | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| OOP | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Design Patterns | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+
+### `03 — FRONTEND DEVELOPMENT`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/React-Beginner-17221B?style=for-the-badge&logo=react&logoColor=00E676" alt="React Beginner" />
+<img src="https://img.shields.io/badge/Next.js-Beginner-17221B?style=for-the-badge&logo=nextdotjs&logoColor=00E676" alt="Next.js Beginner" />
+<img src="https://img.shields.io/badge/Responsive_Design-Intermediate-17221B?style=for-the-badge&logo=css3&logoColor=00E676" alt="Responsive Design Intermediate" />
+<img src="https://img.shields.io/badge/UI_Development-Intermediate-17221B?style=for-the-badge&logo=figma&logoColor=00E676" alt="UI Development Intermediate" />
+
+</div>
+
+| Skill | Level | Visual indicator |
+|---|---|---|
+| React | Beginner | ▰▰▰▱▱▱▱▱▱▱ |
+| Next.js | Beginner | ▰▰▰▱▱▱▱▱▱▱ |
+| Responsive Design | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| UI Development | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
 
 ### `04 — DATABASES & DATA ACCESS`
 
-| Technology | Level | Progress |
+<div align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-Intermediate-17221B?style=for-the-badge&logo=mongodb&logoColor=00E676" alt="MongoDB Intermediate" />
+<img src="https://img.shields.io/badge/PostgreSQL-Intermediate-17221B?style=for-the-badge&logo=postgresql&logoColor=00E676" alt="PostgreSQL Intermediate" />
+<img src="https://img.shields.io/badge/SQLAlchemy-Intermediate-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="SQLAlchemy Intermediate" />
+<img src="https://img.shields.io/badge/PyMongo-Intermediate-17221B?style=for-the-badge&logo=mongodb&logoColor=00E676" alt="PyMongo Intermediate" />
+
+</div>
+
+| Skill | Level | Visual indicator |
 |---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="18" alt="MongoDB" /> **MongoDB** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="18" alt="PostgreSQL" /> **PostgreSQL** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/SQLAlchemy-17221B?style=flat-square&logo=python&logoColor=00E676" height="20" alt="SQLAlchemy" /> **SQLAlchemy** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/PyMongo-17221B?style=flat-square&logo=mongodb&logoColor=00E676" height="20" alt="PyMongo" /> **PyMongo** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| MongoDB | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| PostgreSQL | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| SQLAlchemy | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| PyMongo | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
 
 ### `05 — DEVELOPER TOOLS`
 
-| Technology | Level | Progress |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Git-Intermediate-17221B?style=for-the-badge&logo=git&logoColor=00E676" alt="Git Intermediate" />
+<img src="https://img.shields.io/badge/GitHub-Intermediate-17221B?style=for-the-badge&logo=github&logoColor=00E676" alt="GitHub Intermediate" />
+<img src="https://img.shields.io/badge/Docker-Intermediate-17221B?style=for-the-badge&logo=docker&logoColor=00E676" alt="Docker Intermediate" />
+<img src="https://img.shields.io/badge/Docker_Compose-Intermediate-17221B?style=for-the-badge&logo=docker&logoColor=00E676" alt="Docker Compose Intermediate" />
+<img src="https://img.shields.io/badge/Postman-Beginner-17221B?style=for-the-badge&logo=postman&logoColor=00E676" alt="Postman Beginner" />
+<img src="https://img.shields.io/badge/VS_Code-Proficient-17221B?style=for-the-badge&logo=visualstudiocode&logoColor=00E676" alt="VS Code Proficient" />
+<img src="https://img.shields.io/badge/PyCharm-Proficient-17221B?style=for-the-badge&logo=pycharm&logoColor=00E676" alt="PyCharm Proficient" />
+
+</div>
+
+| Skill | Level | Visual indicator |
 |---|---|---|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="18" alt="Git" /> **Git** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="18" alt="GitHub" /> **GitHub** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18" alt="Docker" /> **Docker** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="18" alt="Docker Compose" /> **Docker Compose** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="18" alt="Postman" /> **Postman** | Beginner | ▰▰▰▱▱▱▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="18" alt="VS Code" /> **VS Code** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="18" alt="PyCharm" /> **PyCharm** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| Git | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| GitHub | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Docker | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Docker Compose | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Postman | Beginner | ▰▰▰▱▱▱▱▱▱▱ |
+| VS Code | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| PyCharm | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
 
 ### `06 — PYTHON ECOSYSTEM`
 
-| Technology | Level | Progress |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Requests-Proficient-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="Requests Proficient" />
+<img src="https://img.shields.io/badge/HTTPX-Proficient-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="HTTPX Proficient" />
+<img src="https://img.shields.io/badge/Pandas-Proficient-17221B?style=for-the-badge&logo=pandas&logoColor=00E676" alt="Pandas Proficient" />
+<img src="https://img.shields.io/badge/Seaborn-Proficient-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="Seaborn Proficient" />
+<img src="https://img.shields.io/badge/Matplotlib-Proficient-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="Matplotlib Proficient" />
+<img src="https://img.shields.io/badge/Beautiful_Soup-Proficient-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="Beautiful Soup Proficient" />
+<img src="https://img.shields.io/badge/Uvicorn-Proficient-17221B?style=for-the-badge&logo=gunicorn&logoColor=00E676" alt="Uvicorn Proficient" />
+
+</div>
+
+| Skill | Level | Visual indicator |
 |---|---|---|
-| <img src="https://img.shields.io/badge/Requests-17221B?style=flat-square&logo=python&logoColor=00E676" height="20" alt="Requests" /> **Requests** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
-| <img src="https://img.shields.io/badge/HTTPX-17221B?style=flat-square&logo=python&logoColor=00E676" height="20" alt="HTTPX" /> **HTTPX** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="18" alt="Pandas" /> **Pandas** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
-| <img src="https://img.shields.io/badge/Seaborn-17221B?style=flat-square&logo=python&logoColor=00E676" height="20" alt="Seaborn" /> **Seaborn** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="18" alt="Matplotlib" /> **Matplotlib** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
-| <img src="https://img.shields.io/badge/Beautiful_Soup-17221B?style=flat-square&logo=python&logoColor=00E676" height="20" alt="Beautiful Soup" /> **Beautiful Soup** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
-| <img src="https://img.shields.io/badge/Uvicorn-17221B?style=flat-square&logo=gunicorn&logoColor=00E676" height="20" alt="Uvicorn" /> **Uvicorn** | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| Requests | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| HTTPX | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| Pandas | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| Seaborn | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| Matplotlib | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| Beautiful Soup | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
+| Uvicorn | Proficient | ▰▰▰▰▰▰▰▰▰▱ |
 
 ### `07 — ENGINEERING & DEPLOYMENT`
 
-| Technology | Level | Progress |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Web_Scraping-Intermediate-17221B?style=for-the-badge&logo=python&logoColor=00E676" alt="Web Scraping Intermediate" />
+<img src="https://img.shields.io/badge/Authentication-Intermediate-17221B?style=for-the-badge&logo=auth0&logoColor=00E676" alt="Authentication Intermediate" />
+<img src="https://img.shields.io/badge/Testing-Intermediate-17221B?style=for-the-badge&logo=pytest&logoColor=00E676" alt="Testing Intermediate" />
+<img src="https://img.shields.io/badge/Linux-Beginner-17221B?style=for-the-badge&logo=linux&logoColor=00E676" alt="Linux Beginner" />
+<img src="https://img.shields.io/badge/CI%2FCD-Intermediate-17221B?style=for-the-badge&logo=githubactions&logoColor=00E676" alt="CI/CD Intermediate" />
+<img src="https://img.shields.io/badge/Deployment-Intermediate-17221B?style=for-the-badge&logo=render&logoColor=00E676" alt="Deployment Intermediate" />
+
+</div>
+
+| Skill | Level | Visual indicator |
 |---|---|---|
-| <img src="https://img.shields.io/badge/Web_Scraping-17221B?style=flat-square&logo=python&logoColor=00E676" height="20" alt="Web Scraping" /> **Web Scraping** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/Authentication-17221B?style=flat-square&logo=auth0&logoColor=00E676" height="20" alt="Authentication" /> **Authentication** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/Testing-17221B?style=flat-square&logo=pytest&logoColor=00E676" height="20" alt="Testing" /> **Testing** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="18" alt="Linux" /> **Linux** | Beginner | ▰▰▰▱▱▱▱▱▱▱ |
-| <img src="https://img.shields.io/badge/CI%2FCD-17221B?style=flat-square&logo=githubactions&logoColor=00E676" height="20" alt="CI/CD" /> **CI/CD** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
-| <img src="https://img.shields.io/badge/Deployment-17221B?style=flat-square&logo=render&logoColor=00E676" height="20" alt="Deployment" /> **Deployment** | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Web Scraping | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Authentication | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Testing | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Linux | Beginner | ▰▰▰▱▱▱▱▱▱▱ |
+| CI/CD | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
+| Deployment | Intermediate | ▰▰▰▰▰▰▱▱▱▱ |
 
 ---
 
@@ -121,10 +208,11 @@ I enjoy building software, understanding how systems work, and steadily improvin
 <div align="center">
 
 <a href="https://github.com/Alireza-Ahmadi">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alireza-Ahmadi&show_icons=true&hide_border=true&bg_color=080B09&title_color=00E676&icon_color=10B981&text_color=B8C9BE&ring_color=00E676&include_all_commits=true" alt="GitHub statistics card" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Alireza-Ahmadi&show_icons=true&hide_border=true&bg_color=080B09&title_color=00E676&icon_color=10B981&text_color=B8C9BE&ring_color=00E676&include_all_commits=true" alt="GitHub statistics" />
 </a>
+
 <a href="https://github.com/Alireza-Ahmadi">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Ahmadi&layout=compact&hide_border=true&bg_color=080B09&title_color=00E676&text_color=B8C9BE" alt="Most used languages card" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Ahmadi&layout=compact&hide_border=true&bg_color=080B09&title_color=00E676&text_color=B8C9BE" alt="Most used languages" />
 </a>
 
 <br/>
@@ -141,11 +229,33 @@ I enjoy building software, understanding how systems work, and steadily improvin
 
 </div>
 
-<sub>Stats are fetched from third-party GitHub README services and may occasionally be unavailable or rate-limited. They reflect data visible to those services, not manually entered figures.</sub>
+<sub>Statistics and activity visuals are fetched from third-party services. They may occasionally be unavailable or rate-limited. No fixed statistics have been manually invented.</sub>
 
 ---
 
-## `04 / CURRENT PRINCIPLES`
+## `04 / CURRENTLY LEARNING`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCUS-Backend_Engineering-17221B?style=for-the-badge&labelColor=080B09&color=00E676" alt="Backend Engineering" />
+<img src="https://img.shields.io/badge/FOCUS-Frontend_Development-17221B?style=for-the-badge&labelColor=080B09&color=10B981" alt="Frontend Development" />
+<img src="https://img.shields.io/badge/FOCUS-Deployment_and_Tooling-17221B?style=for-the-badge&labelColor=080B09&color=00E676" alt="Deployment and Tooling" />
+
+</div>
+
+My current learning direction includes:
+
+- Strengthening backend engineering and API design.
+- Improving database design and data-access practices.
+- Expanding frontend development skills.
+- Learning more about Docker, testing, CI/CD, and deployment.
+- Writing maintainable, structured, and reliable code.
+
+These are learning areas, not claims of certification or completed mastery.
+
+---
+
+## `05 / DEVELOPMENT PRINCIPLES`
 
 <div align="center">
 
@@ -155,12 +265,14 @@ I enjoy building software, understanding how systems work, and steadily improvin
 
 </div>
 
+I value consistent learning, practical problem-solving, readable code, and gradual improvement through building and reviewing software.
+
 ---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B09,50:064E3B,100:00E676&height=120&section=footer" width="100%" alt="" />
 
-<sub><samp>END OF TRANSMISSION // KEEP BUILDING.</samp></sub>
+<samp>END OF TRANSMISSION // KEEP BUILDING.</samp>
 
 </div>
